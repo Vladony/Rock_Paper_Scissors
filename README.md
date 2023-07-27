@@ -1,2 +1,2 @@
 # Rock_Paper_Scissors
-This is a simple game of rock/paper/scissors agains the computer
+This is a simple game of rock/paper/scissors agains the computer. You start by giving a whole number which represents the number of wins either player needs to reach to win the game. Then the program will prompt you to type in your guess. at the back end the program will randomly select a pick as well for every guess you make. Each time you wiln your score will increase by one, the samegoes for the computer. If it is a draw nobody gets a point and the game continues. 
